@@ -6,7 +6,6 @@
     &kp W    &kp A    &kp S    &kp D    &kp UP_ARROW   &kp SPACE
     &kp I    &kp J    &kp K    &kp L    &kp LEFT_ARROW &kp ENTER
     &kp Q    &kp E    &kp R    &kp F    &kp DOWN_ARROW &kp ESCAPE
->;
             >;
         };
     };
