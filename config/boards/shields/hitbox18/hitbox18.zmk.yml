@@ -1,0 +1,7 @@
+file_format: "1"
+id: hitbox18
+name: Hitbox18
+type: shield
+url: https://github.com/WumingMingAi/hitbox-esb-zmk
+requires: [pro_micro]
+exposes: []
